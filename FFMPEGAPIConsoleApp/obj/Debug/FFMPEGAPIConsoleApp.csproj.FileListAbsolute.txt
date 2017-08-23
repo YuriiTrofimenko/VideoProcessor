@@ -1,0 +1,14 @@
+c:\users\yurii\documents\visual studio 2017\Projects\FFMPEGAPIConsoleApp\FFMPEGAPIConsoleApp\bin\Debug\FFMPEGAPIConsoleApp.exe.config
+c:\users\yurii\documents\visual studio 2017\Projects\FFMPEGAPIConsoleApp\FFMPEGAPIConsoleApp\bin\Debug\FFMPEGAPIConsoleApp.exe
+c:\users\yurii\documents\visual studio 2017\Projects\FFMPEGAPIConsoleApp\FFMPEGAPIConsoleApp\bin\Debug\FFMPEGAPIConsoleApp.pdb
+c:\users\yurii\documents\visual studio 2017\Projects\FFMPEGAPIConsoleApp\FFMPEGAPIConsoleApp\bin\Debug\NReco.VideoConverter.dll
+c:\users\yurii\documents\visual studio 2017\Projects\FFMPEGAPIConsoleApp\FFMPEGAPIConsoleApp\bin\Debug\NReco.VideoConverter.xml
+c:\users\yurii\documents\visual studio 2017\Projects\FFMPEGAPIConsoleApp\FFMPEGAPIConsoleApp\obj\Debug\FFMPEGAPIConsoleApp.csprojResolveAssemblyReference.cache
+c:\users\yurii\documents\visual studio 2017\Projects\FFMPEGAPIConsoleApp\FFMPEGAPIConsoleApp\obj\Debug\FFMPEGAPIConsoleApp.exe
+c:\users\yurii\documents\visual studio 2017\Projects\FFMPEGAPIConsoleApp\FFMPEGAPIConsoleApp\obj\Debug\FFMPEGAPIConsoleApp.pdb
+C:\Users\student\Desktop\FFMPEGAPIConsoleApp\FFMPEGAPIConsoleApp\bin\Debug\FFMPEGAPIConsoleApp.exe.config
+C:\Users\student\Desktop\FFMPEGAPIConsoleApp\FFMPEGAPIConsoleApp\obj\Debug\FFMPEGAPIConsoleApp.exe
+C:\Users\student\Desktop\FFMPEGAPIConsoleApp\FFMPEGAPIConsoleApp\obj\Debug\FFMPEGAPIConsoleApp.pdb
+D:\tyaa\Patterns\Examples\FFMPEGAPIConsoleApp\FFMPEGAPIConsoleApp\bin\Debug\FFMPEGAPIConsoleApp.exe.config
+D:\tyaa\Patterns\Examples\FFMPEGAPIConsoleApp\FFMPEGAPIConsoleApp\obj\Debug\FFMPEGAPIConsoleApp.exe
+D:\tyaa\Patterns\Examples\FFMPEGAPIConsoleApp\FFMPEGAPIConsoleApp\obj\Debug\FFMPEGAPIConsoleApp.pdb
